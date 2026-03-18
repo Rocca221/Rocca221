@@ -1,4 +1,4 @@
-# [Santiago Rocca] | Desarrollador de Software & Técnico en Computación
+# Santiago Rocca | Desarrollador de Software & Técnico en Computación
 
 Soy un estudiante de último año en la especialidad de Programación, enfocado en el desarrollo de soluciones integrales que combinan software y hardware. Cuento con una base sólida en lógica de programación, gestión de bases de datos relacionales y configuración de infraestructuras de red.
 
@@ -33,6 +33,6 @@ Soy un estudiante de último año en la especialidad de Programación, enfocado 
 
 ### 📫 Contacto Profesional
 
-* **LinkedIn:** [linkedin.com/in/tu-usuario](https://linkedin.com/in/santiago-rocca-a936803b8)
+* **LinkedIn:** [linkedin.com/in/Santiago-Rocca](https://linkedin.com/in/santiago-rocca-a936803b8)
 * **Email:** santiagoromanrocca@gmail.com
 * **Portfolio:** [Enlace a tu sitio si tienes uno]
